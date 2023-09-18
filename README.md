@@ -58,7 +58,7 @@
         /// Проверка на правильность написания ФИО
         /// </summary>
         [TestClass]
-        public class UnitTest1
+        public class StringCheckTests
         {
             [TestMethod]
             public void CheckName_IsEmpty_FalseReturned()
